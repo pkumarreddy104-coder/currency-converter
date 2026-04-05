@@ -33,5 +33,5 @@ https://currency-converter-olive-omega.vercel.app/
 2. Open index.html in browser
 
 ## 👨‍💻 Author
--KOTHUR PREM KUMAR REDDY
+Kothur Prem Kumar Reddy
 
